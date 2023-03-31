@@ -2,8 +2,9 @@
 #include <stdio.h>
 
 /**
- * main - check the code
- * @a: an array of integers
+ * reverse_array - reverses the content of an array
+ * of integers.
+ * @a: an array.
  * @n: the number of elements to swap
  *
  * Return: nothing.
